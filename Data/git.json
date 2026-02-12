@@ -1,4 +1,4 @@
-{
+[
   {
     "rel_url" : "Bou-Mery/Fabric_tuto_data/refs/heads/master/Data/AdventureWorks_Calendar.csv",
     "folder_name" : "AdventureWorks_Calendar",
@@ -57,4 +57,4 @@
     "file_name" : "AdventureWorks_Territories.csv"
   }
   
-}
+]
